@@ -121,6 +121,11 @@ export default class App extends Component {
             </button>
           </div>
         </div>
+        <footer>
+          <a href="https://github.com/hailer24/React-bubbleSort">
+            github repo - hailer24/React-bubbleSort{" "}
+          </a>
+        </footer>
       </div>
     );
   }

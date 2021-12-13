@@ -39,3 +39,13 @@
   align-items: center;
   margin: 20px;
 }
+
+footer {
+  position: absolute;
+  bottom: 1vh;
+}
+
+a {
+  text-decoration: none;
+  color: #555;
+}
