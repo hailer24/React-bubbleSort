@@ -1,0 +1,14 @@
+.bar {
+  border-radius: 3px;
+}
+
+.flex {
+  display: flex;
+  height: 200px;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.label {
+  text-align: center;
+}

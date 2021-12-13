@@ -1,0 +1,41 @@
+.bars {
+  display: flex;
+  align-items: flex-end;
+  margin: auto;
+  height: 200px;
+  max-width: 50px 0;
+}
+
+.frame {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.app {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 80vh;
+  justify-content: center;
+}
+
+.buttons {
+  padding: 50px;
+  margin: auto;
+  display: flex;
+}
+
+.controller {
+  color: #555;
+  border: none;
+  height: 3em;
+  width: 100px;
+  border-radius: 5%;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
